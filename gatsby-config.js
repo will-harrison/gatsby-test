@@ -3,6 +3,7 @@ module.exports = {
     title: `Will's Gatsby Test`,
     description: `Gatsby Go Go Go!`
   },
+  pathPrefix: '/gatsby-test',
   plugins: [
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-styled-components',
