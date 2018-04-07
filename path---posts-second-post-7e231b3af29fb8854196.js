@@ -1,0 +1,2 @@
+webpackJsonp([0xf809eb21ba6b],{334:function(t,e){t.exports={data:{markdownRemark:{html:"<h3>YO HOMEBOY</h3>\n<p>let's stay homboys forever!</p>",frontmatter:{title:"Homeboys 4 life",date:"Friday, April 06 2018"}}},pathContext:{slug:"/posts/second-post/"}}}});
+//# sourceMappingURL=path---posts-second-post-7e231b3af29fb8854196.js.map

@@ -1,0 +1,62 @@
+{
+  "assetsByChunkName": {
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-07ae2cd71f3cfea3674c.js",
+      "component---src-pages-index-js-07ae2cd71f3cfea3674c.js.map"
+    ],
+    "path---": [
+      "path----f752a451a3b6828f2ec3.js",
+      "path----f752a451a3b6828f2ec3.js.map"
+    ],
+    "component---src-posts-post-page-js": [
+      "component---src-posts-post-page-js-09d5e4a5da3eeab98b8c.js",
+      "component---src-posts-post-page-js-09d5e4a5da3eeab98b8c.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-011e9b12ad752827e046.js",
+      "component---src-layouts-index-js-011e9b12ad752827e046.js.map"
+    ],
+    "path---page-2": [
+      "path---page-2-a0e39f21c11f6a62c5ab.js",
+      "path---page-2-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---index": [
+      "path---index-2971f5368a16b9d7a512.js",
+      "path---index-2971f5368a16b9d7a512.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
+    ],
+    "commons": [
+      "commons-581f82a2f76d1a2b9848.js",
+      "commons-581f82a2f76d1a2b9848.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-page-2-js": [
+      "component---src-pages-page-2-js-075954cd9c4544c7dcd8.js",
+      "component---src-pages-page-2-js-075954cd9c4544c7dcd8.js.map"
+    ],
+    "app": [
+      "app-e5657b70eb6ad8466b75.js",
+      "build-js-styles.css",
+      "app-e5657b70eb6ad8466b75.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---posts-post": [
+      "path---posts-post-7e9c39777f9f8ae1bbeb.js",
+      "path---posts-post-7e9c39777f9f8ae1bbeb.js.map"
+    ],
+    "path---posts-second-post": [
+      "path---posts-second-post-7e231b3af29fb8854196.js",
+      "path---posts-second-post-7e231b3af29fb8854196.js.map"
+    ]
+  }
+}
