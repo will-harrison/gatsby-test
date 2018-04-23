@@ -55,8 +55,9 @@ class Header extends Component {
         </HeaderBody>
         <MainNav>
           <ul>
-            <li>About</li>
-            <li>Tony Danza</li>
+            <li><Link to='/'>Home</Link></li>
+            <li><Link to={'/page-2'}>About</Link></li>
+            <li><a href='http://www.tonydanza.com/'>Tony Danza</a></li>
           </ul>
         </MainNav>
         <Img
@@ -90,16 +91,17 @@ const MainNav = styled.nav`
   ul {
     list-style: none;
     display: flex;
-    
+
     li {
+      z-index: 5;
       margin-left: 10px;
 
       a {
-        text-decoration: none;
+            text-decoration: none;
         color: #fff;
 
         &:hover {
-          border-bottom: 3px solid #524763;
+            border-bottom: 3px solid #524763;
         }
       }
     }
